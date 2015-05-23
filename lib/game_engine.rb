@@ -1,6 +1,6 @@
 class GameEngine
 
-  def initialize(players, size_of_hand=1)
+  def initialize(players, dice)
   end
 
   def show
